@@ -5,3 +5,13 @@ sfdc:
   username: "shyamksec-a8rr@force.com"
   password: "Lopinghealer1$"
   token: "x32dJ8kfmOOBcl1yttngu1VO"
+  
+file:
+  accountsDir: "E:/Mulesoft Docs/DEX401-files/CDEV-DEX401-EN-07Jun2024-Student-Files_SP/resources"
+  
+db:
+  host: "mudb.mule-training.com"
+  port: "3306"
+  user: "mule"
+  password: "mule"
+  database: "training"
