@@ -1,10 +1,6 @@
 http:
   port: "8081"
   
-sfdc:
-  username: "shyamksec-a8rr@force.com"
-  password: "Lopinghealer1$"
-  token: "x32dJ8kfmOOBcl1yttngu1VO"
   
 file:
   accountsDir: "E:/Mulesoft Docs/DEX401-files/CDEV-DEX401-EN-07Jun2024-Student-Files_SP/resources"
